@@ -1,4 +1,5 @@
-bIsLobby: 0x238
+
+
 
 AActors 0x98
 ActorCount 0xA0
@@ -6,8 +7,8 @@ LocalPlayers 0x38
 GameInstance 0x180
 Levels 0x138
 PersistentLevel 0x30
-[cn]ControlRotation 0x288
-[cn]PlayerCameraManager 0x
+ControlRotation 0x288
+PlayerCameraManager 0x
 AcknowledgedPawn 0x2A0
 
 PlayerState 0x240
@@ -52,3 +53,5 @@ AthenaCrouchingSpreadMultiplier 0x168
 AthenaSprintingSpreadMultiplier 0x21C
 MinSpeedForSpreadMultiplier 0x174
 MaxSpeedForSpreadMultiplier 0x178
+FortniteGame::BuildingContainer::bAlreadySearched: 0xC89
+Offsets::Engine::Controller::RemoteViewPitch: 0x232
